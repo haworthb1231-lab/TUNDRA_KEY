@@ -6,7 +6,7 @@ I see you have successfully acquired the repository to The United Nations Depart
 
 _If you require assistance, you know who to contact and where._
 
-#### note: if you need a second password, recall the verbal password used in _last assignment._It must be in all caps.
+#### note: if you need a second password, recall the verbal password used in _last assignment._ It must be in all caps.
 ###### ( **hint:** Do you remember the name of the AGI? )
 
 #### -- Agent B
